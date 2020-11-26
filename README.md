@@ -1,18 +1,17 @@
----
-title: The evolving worldwide dynamic state of the COVID-19 outbreak
----
 
-Jose M. G. Vilar^1,2,\*^ and Leonor Saiz^3,\*^
+# The evolving worldwide dynamic state of the COVID-19 outbreak
 
-^1^ Biofisika Institute (CSIC, UPV/EHU), University of the Basque
+Jose M. G. Vilar<sup>1,2,\*</sup> and Leonor Saiz<sup>3,\*</sup>
+
+<sup>1</sup> Biofisika Institute (CSIC, UPV/EHU), University of the Basque
 Country (UPV/EHU), P.O. Box 644, 48080 Bilbao, Spain
 
-^2^ IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Spain
+<sup>2</sup> IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Spain
 
-^3^ Department of Biomedical Engineering, University of California, 451
+<sup>3</sup> Department of Biomedical Engineering, University of California, 451
 E. Health Sciences Drive, Davis, CA 95616, USA
 
-^\*^Correspondence to: j.vilar\@ikerbasque.org or lsaiz\@ucdavis.edu
+<sup>\*</sup>Correspondence to: j.vilar\@ikerbasque.org or lsaiz\@ucdavis.edu
 
 This repository contains the datasets of the trajectories of the dynamic
 state of the COVID-19 outbreak for countries in the world
