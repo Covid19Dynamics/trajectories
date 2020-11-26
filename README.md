@@ -17,3 +17,4 @@ This repository contains the datasets of the trajectories of the dynamic
 state of the COVID-19 outbreak for countries in the world
 (Covid19Dynamics_World.csv) and states and territories in the United
 States (Covid19Dynamics_US.csv).
+
