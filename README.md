@@ -16,7 +16,7 @@ state of the COVID-19 outbreak for countries in the world
 (Covid19Dynamics_World.csv) and states and territories in the United
 States (Covid19Dynamics_US.csv).
 
-Citation:<br>
+Interim citation and methodology:<br>
 J. M. G. Vilar and L. Saiz, _The evolving worldwide dynamic state of the COVID-19 outbreak_,<br>
 medRxiv 2020.11.26.20239434; doi: https://doi.org/10.1101/2020.11.26.20239434 (2020).
 
